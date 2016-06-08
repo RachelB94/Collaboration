@@ -1,0 +1,32 @@
+﻿@model Collaboration3.Models.EmailFormModel
+
+@{
+    ViewBag.Title = "Contact Collaboration";
+}
+<h2>@ViewBag.Title</h2>
+
+@Html.AntiForgeryToken()
+    
+    <h3> Send Comments</h3>
+    <p>If you have been redirected from Files, please message rachelbyrne1994@gmail.com for file permissions.</p>
+    <hr />
+    @using (Html.BeginForm())
+    {
+        <div style="padding-left:400px">
+        @Html.ValidationSummary()
+        <p>From: </p>
+        <p>@Html.TextBoxFor(m => m.From)</p>
+        <p>To: </p>
+        <p>@Html.TextBoxFor(m => m.To)</p>
+        <p>Subject: </p>
+        <p>@Html.TextBoxFor(m => m.Subject)</p>
+        <p>Body: </p>
+        <p>@Html.TextAreaFor(m => m.Body)</p>
+        <input type="submit" value="Send" />
+        </div>
+    }
+    
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

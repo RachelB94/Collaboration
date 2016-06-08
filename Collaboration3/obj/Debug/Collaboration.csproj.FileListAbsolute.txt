@@ -1,0 +1,154 @@
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\csc.exe
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.CSharp.Core.targets
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\System.Collections.Immutable.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\System.Reflection.Metadata.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\vbc.exe
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\VBCSCompiler.exe
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\VBCSCompiler.exe.config
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Collaboration.dll.config
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Collaboration.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Collaboration.pdb
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Antlr3.Runtime.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\EntityFramework.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\EntityFramework.SqlServer.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.ApplicationInsights.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AspNet.Identity.Core.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AspNet.Identity.Owin.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.Cookies.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.Facebook.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.Google.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.OAuth.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.Twitter.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Web.Infrastructure.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Newtonsoft.Json.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Owin.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.Helpers.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.Mvc.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.Optimization.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.Razor.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.WebPages.Deployment.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.WebPages.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.WebPages.Razor.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\WebGrease.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.ApplicationInsights.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.Helpers.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.Mvc.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.Optimization.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.Razor.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.WebPages.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.WebPages.Deployment.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\System.Web.WebPages.Razor.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Antlr3.Runtime.pdb
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Newtonsoft.Json.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\EntityFramework.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\EntityFramework.SqlServer.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AspNet.Identity.Core.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AspNet.Identity.Owin.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.Facebook.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.Cookies.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.OAuth.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.Google.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.Twitter.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.csprojResolveAssemblyReference.cache
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.pdb
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\ApplicationInsights.config
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.Agent.Intercept.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.DependencyCollector.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.PerfCounterCollector.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.Web.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.WindowsServer.dll
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.DependencyCollector.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.Web.xml
+\\welfare.irlgov.ie\shares\frdirwin7_pr\rachelbyrne\my documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\ApplicationInsights.config
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\csc.exe
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\vbc.exe
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Content\Files\Hi.txt
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Collaboration.dll.config
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Collaboration.dll
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\bin\Collaboration.pdb
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.InitialCreate.resources
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.mg.resources
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.mg2.resources
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.mg3.resources
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.mg4.resources
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.mg41.resources
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.csproj.GenerateResource.Cache
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.dll
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.pdb
+C:\Users\Rachel\documents\visual studio 2015\Projects\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.mg5.resources
+I:\Collaboration\Collaboration\bin\ApplicationInsights.config
+I:\Collaboration\Collaboration\bin\roslyn\csc.exe
+I:\Collaboration\Collaboration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Collaboration\Collaboration\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Collaboration\Collaboration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Collaboration\Collaboration\bin\roslyn\System.Collections.Immutable.dll
+I:\Collaboration\Collaboration\bin\roslyn\System.Reflection.Metadata.dll
+I:\Collaboration\Collaboration\bin\roslyn\vbc.exe
+I:\Collaboration\Collaboration\bin\roslyn\VBCSCompiler.exe
+I:\Collaboration\Collaboration\bin\roslyn\VBCSCompiler.exe.config
+I:\Collaboration\Collaboration\bin\Content\Files\Hi.txt
+I:\Collaboration\Collaboration\bin\Collaboration.dll.config
+I:\Collaboration\Collaboration\bin\Collaboration.dll
+I:\Collaboration\Collaboration\bin\Collaboration.pdb
+I:\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.InitialCreate.resources
+I:\Collaboration\Collaboration\obj\Debug\Collaboration.csproj.GenerateResource.Cache
+I:\Collaboration\Collaboration\obj\Debug\Collaboration.dll
+I:\Collaboration\Collaboration\obj\Debug\Collaboration.pdb
+I:\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.mg.resources
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\ApplicationInsights.config
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\csc.exe
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\vbc.exe
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\Content\Files\Hi.txt
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\Collaboration.dll.config
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\Collaboration.dll
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\bin\Collaboration.pdb
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\obj\Debug\Collaboration.csprojResolveAssemblyReference.cache
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.InitialCreate.resources
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\obj\Debug\Collaboration.Migrations.mg.resources
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\obj\Debug\Collaboration.csproj.GenerateResource.Cache
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\obj\Debug\Collaboration.dll
+C:\Users\Rachel\Documents\Visual Studio 2015\Projects\Collaboration\Collaboration\Collaboration\obj\Debug\Collaboration.pdb

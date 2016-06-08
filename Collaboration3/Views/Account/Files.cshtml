@@ -1,0 +1,41 @@
+﻿@model Collaboration.Models.FileModel
+@{
+    ViewBag.Title = "Files";
+}
+
+<h2>@ViewBag.Title </h2>
+
+<table>
+    <tr>
+        <th>File Name</th>
+    </tr>
+</table>
+<a href="~/Content/Hi.txt">Hi.txt</a>
+<div>
+    <a href="~/Content/Hi.txt">Hi.txt</a>
+    </div>
+<div>
+    <a href="~/Content/Hi.txt">Hi.txt</a>
+</div>
+<div>
+    <a href="~/Content/Hi.txt">Hi.txt</a>
+    </div>
+
+
+    <h2>Basic File Upload</h2>
+@using (Html.BeginForm("Profile",
+                                    "Account",
+                                    FormMethod.Post,
+                                    new { enctype = "multipart/form-data" }))
+{
+    <label for="file">Upload Image:</label>
+    <input type="file" name="file" id="file" /><br><br>
+    <input type="submit" value="Upload Image" />
+    <br><br>
+    @ViewBag.Message
+}
+
+
+    
+
+

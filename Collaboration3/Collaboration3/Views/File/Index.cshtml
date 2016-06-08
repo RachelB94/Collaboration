@@ -1,0 +1,67 @@
+﻿@model IEnumerable<Collaboration.Models.FileModel>
+@using Collaboration3.Models;
+@using System.Security.AccessControl;
+
+
+ @if (!User.Identity.IsAuthenticated)
+    {
+       @Html.Action("Login","Account")
+    }
+
+
+
+<h1 style="padding-left:500px; padding-bottom:20px;">Files</h1>
+
+
+<div style="padding-left:300px; padding-bottom:20px">
+<table class="table-bordered">
+    <tr style="font-size:20px">
+
+        <th>
+            @Html.DisplayNameFor(model => model.FileName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FilePath)
+        </th>
+        <th></th>
+
+    </tr>
+
+
+    @foreach (var item in Model)
+    {
+        <tr style="font-size:15px">
+            <td>
+                @Html.DisplayFor(modelItem => item.FileName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FilePath)
+            </td>
+           
+           
+            <td>
+                <a href="@Url.Action("Download", new { id = item.Id })"> <span class="glyphicon glyphicon-download"></span></a>
+            </td>
+        </tr>
+    }
+
+
+</table>
+    
+    </div>
+
+
+
+   
+<div style="padding-left:400px; padding-bottom:30px">
+    @using (Html.BeginForm("Index", "File", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <p>
+        <a style="padding-bottom:70px"><input type="file" name="file" style="background-color:white"/></a>
+            </p>
+            <p>
+        <a style="padding-left:80px; padding-top:40px;"><input type="submit" value="Upload" /></a>
+        </p>
+    }
+</div>
+

@@ -1,0 +1,144 @@
+﻿@model Collaboration3.Models.ProfileView
+@using Microsoft.AspNet.Identity;
+@using Microsoft.AspNet.Identity.EntityFramework;
+@using Collaboration3.Models;
+
+
+
+@{
+    ViewBag.Title = "Profile";
+}
+
+
+<div class="container">
+    <div class="span3 well">
+       
+        <center>
+            @if (User.Identity.IsAuthenticated)
+                    {
+                        var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+                        var currentUser = manager.FindById(User.Identity.GetUserId());
+                        
+
+            <a href="#aboutModal" data-toggle="modal" data-target="#myModal"><img src="data:image;base64,@System.Convert.ToBase64String(@currentUser.ImageByte)" name="aboutme" width="140" height="140" class="img-circle"></a>
+
+            }
+            else
+            {
+                <a href="#aboutModal" data-toggle="modal" data-target="#myModal"><img src="~/Content/Images/user.png" width="140" height="140" class="img-circle"></a>
+            }
+
+
+
+            @if (Request.IsAuthenticated)
+            {
+                var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+                var currentUser = manager.FindById(User.Identity.GetUserId());
+                
+
+                <h3>@currentUser.FirstName @currentUser.LastName</h3>
+            }
+           
+            <em>Click Picture For More</em>
+        </center>
+    </div>
+    <!-- Model -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+                        var currentUser = manager.FindById(User.Identity.GetUserId());
+                    <h4 class="modal-title" id="myModalLabel">More About @currentUser.FirstName</h4>
+                    }
+                </div>
+                
+
+                <div class="modal-body">
+                    <center>
+
+                       
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+                            var currentUser = manager.FindById(User.Identity.GetUserId());
+
+
+                            <a><img src="data:image;base64,@System.Convert.ToBase64String(@currentUser.ImageByte)" name="aboutme" width="140" height="140" class="img-circle"></a>
+
+                        }
+                        else
+                        {
+                            <a><img src="~/Content/Images/user.png" name="aboutme" width="140" height="140" class="img-circle"></a>
+                        }
+
+                @if (Request.IsAuthenticated)
+                {
+                    var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+                    var currentUser = manager.FindById(User.Identity.GetUserId());
+                        <h3 class="media-heading">@currentUser.FirstName @currentUser.LastName <small>@currentUser.JobTitle</small></h3>
+                }
+                        <span><strong>Skills: </strong></span>
+                        <span class="label label-warning">Java</span>
+                        <span class="label label-info">Bootstrap</span>
+                        <span class="label label-info">Naked Objects</span>
+                        <span class="label label-success">Collaboration</span>
+                        <span class="label label-info">C#</span>
+                    </center>
+                    <hr>
+                    <center>
+                                @if (Request.IsAuthenticated)
+                                {
+                                    var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext()));
+                                    var currentUser = manager.FindById(User.Identity.GetUserId());
+                                    <p class="text-left"></p>
+                                        <strong>Information</strong>
+                                        <br>
+                                        <p>
+                                        <span class="glyphicon glyphicon-envelope" style="color:white"> @currentUser.Email</span>
+                                        </p>
+                                        <p>
+                                        <span class="glyphicon glyphicon-user" style="color:white"> @currentUser.TeamName</span>
+                                        </p>
+                                        <p>
+                                        <span class="glyphicon glyphicon-phone-alt" style="color:white"> @currentUser.PhoneNumber</span>
+                                        </p>
+                                }
+                            
+                            
+                                
+
+                </center>
+                </div>
+                        
+                <div class="modal-footer">
+                    <center>
+           
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            
+                    </center>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+                        
+<p>
+    <p class="text-success">@ViewBag.StatusMessage</p>
+    <a href="@Url.Action("AddPhoneNumber", "Manage")"/>
+    <span class="glyphicon glyphicon-earphone" style="padding:10px"color:coral"></span>
+     <a href="@Url.Action("ChangePassword", "Manage")"/>
+     <span class="glyphicon glyphicon-cog" style="color:coral"></span>
+ 
+    
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

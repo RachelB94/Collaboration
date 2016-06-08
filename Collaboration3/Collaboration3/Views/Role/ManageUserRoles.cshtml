@@ -1,0 +1,64 @@
+﻿
+@{
+    ViewBag.Title = "ManageUserRoles";
+}
+
+<h1 style="padding-left:440px">Manage User Roles</h1>
+<a style="padding-left:455px">@Html.ActionLink("Create New Role", "Create") | @Html.ActionLink("Manage User Role", "ManageUserRoles")</a>
+</hr>
+
+<h2 style="padding-left:450px">Add Role to a User</h2>
+
+@using (Html.BeginForm("RoleAddToUser", "Role"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <p style="padding-left:350px">
+        Username : @Html.TextBox("UserName")
+        Role Name:<a style="color:black"> @Html.DropDownList("RoleName", (IEnumerable<SelectListItem>)ViewBag.Roles, "Select..")</a>
+        <input class="btn btn-primary btn-sm" type="submit" value="Save" style="border-radius: 20px;" />
+    </p>
+
+   
+}
+
+<hr/>
+<h3 style="padding-left:450px">Get Roles for a User</h3>
+@using (Html.BeginForm("GetRoles", "Role"))
+{
+    @Html.AntiForgeryToken()
+    <p p style="padding-left:415px">
+        Username: @Html.TextBox("UserName")
+        <input class="btn btn-primary btn-sm" type="submit" value="Get Roles" style="border-radius: 20px;" />
+         
+    </p>
+
+}
+
+@if (ViewBag.RolesForThisUser != null)
+{
+    <div style="padding-left:450px; border:solid">
+        <h3>Roles for this user</h3>
+        <ol>
+            @foreach(string s in ViewBag.RolesForThisUser)
+            {
+                <li>@s</li>
+            }
+        </ol>
+    </div>
+}
+<hr />
+<h3 style="padding-left:450px">Delete A User from a Role</h3>
+@using (Html.BeginForm("DeleteRoleForUser", "Role"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <p style="padding-left:350px">
+        Username: @Html.TextBox("UserName")
+        Role Name: <a style="color:black">@Html.DropDownList("RoleName", (IEnumerable<SelectListItem>)ViewBag.Roles, "Select..")</a>
+        <input class="btn btn-primary btn-sm" type="submit" value="Delete Role" style="border-radius: 20px;" />
+</p>
+    
+}
